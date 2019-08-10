@@ -1,0 +1,21 @@
+{
+    "name": "lyxxxh/larapi",
+    "description": "laravel调用其他路由 获取返回数据",
+    "keywords": [
+        "laravel"
+    ],
+    "authors": [
+        {
+            "name": "xxh",
+            "email": "449399575@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Xxh\\LarApi": "src/"
+        }
+    }
+
+
+}
